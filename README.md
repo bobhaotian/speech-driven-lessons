@@ -1,4 +1,8 @@
 # speech-driven-lessons
+If you need the codebase, please contact robertadm1n10@gmail.com
+
+Demo:
+
 
 ## Backend Architecture and Workflow
 
