@@ -1,7 +1,7 @@
 # speech-driven-lessons
 If you need the codebase, please contact robertadm1n10@gmail.com
 
-🌟Realtime Lesson Page Demo:
+🌟Realtime Interactive Lesson Page Demo (with Sound!):
 
 https://github.com/user-attachments/assets/e34477f9-a241-49af-856e-16cb9b35e57c
 
