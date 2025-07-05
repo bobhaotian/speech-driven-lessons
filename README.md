@@ -3,6 +3,12 @@ If you need the codebase, please contact robertadm1n10@gmail.com
 
 🌟Realtime Lesson Page Demo:
 
+https://github.com/user-attachments/assets/e34477f9-a241-49af-856e-16cb9b35e57c
+
+✨Workflow Demo:
+
+https://github.com/user-attachments/assets/d4a19b38-0fb4-47a9-86c8-d560b265ad40
+
 
 ## Backend Architecture and Workflow
 
