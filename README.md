@@ -1,4 +1,4 @@
-# speech-driven-lessons
+# Speech-Driven-Lessons
 If you need the codebase, please contact robertadm1n10@gmail.com
 
 🌟Realtime Interactive Lesson Page Demo (with Sound!):
