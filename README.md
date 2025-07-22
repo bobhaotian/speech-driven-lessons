@@ -1,5 +1,5 @@
 # Speech-Driven-Lessons
-If you'd like to view the codebase, please contact robertadm1n10@gmail.com
+If you'd like to view the full codebase, please contact robertadm1n10@gmail.com
 
 🌟Realtime Interactive Lesson Page Demo (with Sound!):
 
